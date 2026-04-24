@@ -36,7 +36,7 @@ The project begins with initializing the database:
 ├── 10_data_segmentation.sql
 ├── 11_part_to_whole_analysis.sql
 ├── 12_report_customers.sql
-└── 13_report_products.sql
+└── 13_report_products.sql```
 
 
 
