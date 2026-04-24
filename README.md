@@ -38,8 +38,6 @@ The project begins with initializing the database:
 ├── 12_report_customers.sql
 └── 13_report_products.sql```
 
-
-
 ## 🔍 Analysis Breakdown
 
 ### 1. Database Exploration
