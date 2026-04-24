@@ -37,6 +37,7 @@ The project begins with initializing the database:
 ├── 11_part_to_whole_analysis.sql
 ├── 12_report_customers.sql
 └── 13_report_products.sql
+``` text
 
 ##🔍 Analysis Breakdown
 1. Database Exploration
