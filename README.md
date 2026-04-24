@@ -129,5 +129,3 @@ This project helps answer:
     * Ranking techniques
     * Time-series analysis
 * Building business-oriented insights from raw data.
-
-Building business-oriented insights from raw data
